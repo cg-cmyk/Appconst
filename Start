@@ -1,0 +1,14 @@
+# Building Code Finder Demo
+
+This is a minimal React app starter for the Building Code Finder demo.
+
+## Getting Started
+
+1. Install dependencies:
+    ```sh
+    npm install
+    ```
+2. Start the development server:
+    ```sh
+    npm start
+    ```
